@@ -6,6 +6,11 @@ Made for a foothold for a box (won't tell you which!!)
 
 * Make sure a PHP revershell from pentestmonkeys is in the same directory called shell.php (or edit the script)
 
+```shell
+php phpExploitSerilization.php
+```
+
+
 
 # Sources
 
